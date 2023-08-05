@@ -5166,10 +5166,10 @@ game_date,player_name,goal_min,penalty,own_goal
 1996-03-12,Graham Branch,,,0
 1996-03-16,John Aldridge,,,0
 1996-03-16,Gary Bennett,,,0
-1996-03-23,John Aldridge,,,0
-1996-03-23,OG,,,1
-1996-04-02,Alan Rogers,,,0
-1996-04-02,John Aldridge,,,0
+1996-03-23,John Aldridge,23.0,0.0,0
+1996-03-23,OG,61.0,0.0,1
+1996-04-02,Alan Rogers,48.0,0.0,0
+1996-04-02,John Aldridge,59.0,1.0,0
 1996-04-06,John Aldridge,60.0,0.0,0
 1996-04-08,Paul Cook,6.0,0.0,0
 1996-04-08,John Aldridge,82.0,1.0,0
