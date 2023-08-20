@@ -1,4 +1,6 @@
 season,game_date,game_no,opposition,venue,score,outcome,goals_for,goals_against,goal_diff,game_type,competition,generic_comp,ssn_comp_game_no,league_tier,league_pos,pts,attendance,weekday,manager,ko_time,cup_round,cup_leg,cup_stage,cup_replay,cup_section,aet,pen_outcome,pen_score,pen_gf,pen_ga,agg_outcome,agg_score,agg_gf,agg_ga,away_goal_outcome,gg_outcome,decider,cup_outcome,outcome_desc,game_length
+2023/24,2023-08-19,5,Salford City,H,3-4,L,3.0,4.0,-1.0,League,League Two,Football League,4,4.0,19.0,3.0,9594.0,Saturday,Ian Dawes,,,,,,,,,,,,,,,,,,,,,90
+2023/24,2023-08-15,4,Harrogate Town,H,3-0,W,3.0,0.0,3.0,League,League Two,Football League,3,4.0,17.0,3.0,5278.0,Tuesday,Ian Dawes,,,,,,,,,,,,,,,,,,,,,90
 2023/24,2023-08-12,3,Milton Keynes Dons,A,0-1,L,0.0,1.0,-1.0,League,League Two,Football League,2,4.0,22.0,0.0,5831.0,Saturday,Ian Dawes,,,,,,,,,,,,,,,,,,,,,90
 2023/24,2023-08-08,2,Barnsley,A,2-2,D,2.0,2.0,0.0,Cup,League Cup,League Cup,1,,,,4343.0,Tuesday,Ian Dawes,,,,,,,,,,,,,,,,,,,,,90
 2023/24,2023-08-05,1,Barrow,H,1-2,L,1.0,2.0,-1.0,League,League Two,Football League,1,4.0,17.0,0.0,6584.0,Saturday,Ian Dawes,,,,,,,,,,,,,,,,,,,,,90

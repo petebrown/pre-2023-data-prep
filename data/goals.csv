@@ -5586,8 +5586,8 @@ game_date,player_name,goal_min,penalty,own_goal
 2001-11-24,Jason Price,39.0,0.0,0
 2001-11-24,Jason Koumas,61.0,0.0,0
 2001-11-24,Jason Price,88.0,0.0,0
-2001-11-24,Wayne Allison,90.0,0.0,0
 2001-11-24,Alan Navarro,90.0,0.0,0
+2001-11-24,Wayne Allison,90.0,0.0,0
 2001-12-01,Jason Price,42.0,0.0,0
 2001-12-01,Gareth Roberts,66.0,0.0,0
 2001-12-08,Jason Price,9.0,0.0,0
@@ -6496,8 +6496,8 @@ game_date,player_name,goal_min,penalty,own_goal
 2015-12-26,Michael Ihiekwe,77.0,0.0,0
 2015-12-28,James Norwood,28.0,0.0,0
 2016-01-09,Adam Mekki,18.0,1.0,0
-2016-01-09,Jeff Hughes,90.0,0.0,0
 2016-01-09,Jake Kirby,90.0,0.0,0
+2016-01-09,Jeff Hughes,90.0,0.0,0
 2016-01-09,Lois Maynard,90.0,0.0,0
 2016-01-23,Lee Vaughan,54.0,0.0,0
 2016-01-30,Gary Taylor-Fletcher,37.0,0.0,0
@@ -6800,8 +6800,8 @@ game_date,player_name,goal_min,penalty,own_goal
 2019-09-07,Paul Mullin,70.0,0.0,0
 2019-09-17,Liam Ridehalgh,65.0,0.0,0
 2019-09-17,Ollie Banks,70.0,0.0,0
-2019-09-21,Stefan Payne,90.0,0.0,0
 2019-09-21,Ollie Banks,90.0,0.0,0
+2019-09-21,Stefan Payne,90.0,0.0,0
 2019-09-28,Stefan Payne,39.0,0.0,0
 2019-10-08,George Ray,14.0,0.0,0
 2019-10-08,Connor Jennings,78.0,0.0,0
@@ -7045,3 +7045,9 @@ game_date,player_name,goal_min,penalty,own_goal
 2023-08-05,Josh Hawkes,63.0,1.0,0
 2023-08-08,Luke Norris,23.0,0.0,0
 2023-08-08,Samuel Taylor,47.0,0.0,0
+2023-08-15,Luke Norris,24.0,0.0,0
+2023-08-15,Samuel Taylor,26.0,0.0,0
+2023-08-15,Kieron Morris,89.0,0.0,0
+2023-08-19,Connor Jennings,6.0,0.0,0
+2023-08-19,Kristian Dennis,36.0,0.0,0
+2023-08-19,Charlie Jolley,87.0,0.0,0
