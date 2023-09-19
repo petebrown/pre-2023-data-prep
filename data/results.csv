@@ -1,4 +1,9 @@
 season,game_date,game_no,opposition,venue,score,outcome,goals_for,goals_against,goal_diff,game_type,competition,generic_comp,ssn_comp_game_no,league_tier,league_pos,pts,attendance,weekday,manager,ko_time,cup_round,cup_leg,cup_stage,cup_replay,cup_section,aet,pen_outcome,pen_score,pen_gf,pen_ga,agg_outcome,agg_score,agg_gf,agg_ga,away_goal_outcome,gg_outcome,decider,cup_outcome,outcome_desc,game_length
+2023/24,2023-09-16,11,Crawley Town,A,2-3,L,2.0,3.0,-1.0,League,League Two,Football League,8,4.0,23.0,3.0,2961.0,Saturday,Nigel Adkins,,,,,,,,,,,,,,,,,,,,,90
+2023/24,2023-09-09,10,Colchester United,A,0-2,L,0.0,2.0,-2.0,League,League Two,Football League,7,4.0,22.0,3.0,3474.0,Saturday,Ian Dawes,,,,,,,,,,,,,,,,,,,,,90
+2023/24,2023-09-05,9,Fleetwood Town,A,0-2,L,0.0,2.0,-2.0,Cup,Football League Trophy,Associate Members' Cup,1,,,,,Tuesday,Ian Dawes,,,,,,,,,,,,,,,,,,,,,90
+2023/24,2023-09-02,8,Wrexham,H,0-1,L,0.0,1.0,-1.0,League,League Two,Football League,6,4.0,21.0,3.0,10614.0,Saturday,Ian Dawes,,,,,,,,,,,,,,,,,,,,,90
+2023/24,2023-08-29,7,Leicester City,H,0-2,L,0.0,2.0,-2.0,Cup,League Cup,League Cup,2,,,,6610.0,Tuesday,Ian Dawes,,,,,,,,,,,,,,,,,,,,,90
 2023/24,2023-08-26,6,Notts County,A,1-2,L,1.0,2.0,-1.0,League,League Two,Football League,5,4.0,21.0,3.0,10174.0,Saturday,Ian Dawes,,,,,,,,,,,,,,,,,,,,,90
 2023/24,2023-08-19,5,Salford City,H,3-4,L,3.0,4.0,-1.0,League,League Two,Football League,4,4.0,19.0,3.0,9594.0,Saturday,Ian Dawes,,,,,,,,,,,,,,,,,,,,,90
 2023/24,2023-08-15,4,Harrogate Town,H,3-0,W,3.0,0.0,3.0,League,League Two,Football League,3,4.0,17.0,3.0,5278.0,Tuesday,Ian Dawes,,,,,,,,,,,,,,,,,,,,,90

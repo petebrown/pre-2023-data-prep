@@ -4159,7 +4159,7 @@ game_date,player_name,goal_min,penalty,own_goal
 1984-05-05,Ray Woods,,,0
 1984-05-12,Ray Woods,,,0
 1984-05-18,Bobby Hutchinson,,,0
-1984-05-21,Dave Philpotts,,,0
+1984-05-21,Dave Philpotts,74.0,1.0,0
 1984-08-28,Colin Clarke,,,0
 1984-08-28,John Clayton,,,0
 1984-09-01,John Aspinall,,,0
@@ -4530,8 +4530,8 @@ game_date,player_name,goal_min,penalty,own_goal
 1989-02-10,Steve Vickers,,,0
 1989-02-18,Ian Muir,31.0,0.0,0
 1989-03-01,Ian Muir,,,0
-1989-03-03,Jim Steel,,,0
-1989-03-03,Ian Muir,,,0
+1989-03-03,Ian Muir,48.0,0.0,0
+1989-03-03,Jim Steel,62.0,0.0,0
 1989-03-11,Chris Malkin,,,0
 1989-03-13,Chris Malkin,41.0,0.0,0
 1989-03-13,OG,55.0,0.0,1
@@ -7052,3 +7052,5 @@ game_date,player_name,goal_min,penalty,own_goal
 2023-08-19,Kristian Dennis,36.0,0.0,0
 2023-08-19,Charlie Jolley,87.0,0.0,0
 2023-08-26,Josh Hawkes,88.0,0.0,0
+2023-09-16,Charlie Jolley,21.0,0.0,0
+2023-09-16,Samuel Taylor,66.0,0.0,0
