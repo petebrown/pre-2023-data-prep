@@ -1,4 +1,17 @@
 season,game_date,game_no,opposition,venue,score,outcome,goals_for,goals_against,goal_diff,game_type,competition,generic_comp,ssn_comp_game_no,league_tier,league_pos,pts,attendance,weekday,manager,ko_time,cup_round,cup_leg,cup_stage,cup_replay,cup_section,aet,pen_outcome,pen_score,pen_gf,pen_ga,agg_outcome,agg_score,agg_gf,agg_ga,away_goal_outcome,gg_outcome,decider,cup_outcome,outcome_desc,game_length
+2023/24,2023-11-28,26,Mansfield Town,A,2-2,D,2.0,2.0,0.0,League,League Two,Football League,20,4.0,22.0,18.0,6421.0,Tuesday,Nigel Adkins,,,,,,,,,,,,,,,,,,,,,90
+2023/24,2023-11-25,25,Gillingham,H,3-1,W,3.0,1.0,2.0,League,League Two,Football League,19,4.0,22.0,17.0,,Saturday,Nigel Adkins,,,,,,,,,,,,,,,,,,,,,90
+2023/24,2023-11-18,24,Sutton United,A,1-1,D,1.0,1.0,0.0,League,League Two,Football League,18,4.0,22.0,14.0,3548.0,Saturday,Nigel Adkins,,,,,,,,,,,,,,,,,,,,,90
+2023/24,2023-11-14,23,Wigan Athletic,H,0-0,D,0.0,0.0,0.0,Cup,Football League Trophy,Associate Members' Cup,3,,,,,Tuesday,Nigel Adkins,,,,,,,,,,,,,,,,,,,,,90
+2023/24,2023-11-11,22,Forest Green Rovers,H,3-0,W,3.0,0.0,3.0,League,League Two,Football League,17,4.0,22.0,13.0,6461.0,Saturday,Nigel Adkins,,,,,,,,,,,,,,,,,,,,,90
+2023/24,2023-11-04,21,Stevenage,A,3-4,L,3.0,4.0,-1.0,Cup,FA Cup,FA Cup,1,,,,2404.0,Saturday,Nigel Adkins,,,,,,,,,,,,,,,,,,,,,90
+2023/24,2023-10-28,20,Stockport County,A,0-2,L,0.0,2.0,-2.0,League,League Two,Football League,16,4.0,23.0,10.0,9735.0,Saturday,Nigel Adkins,,,,,,,,,,,,,,,,,,,,,90
+2023/24,2023-10-24,19,Morecambe,A,0-1,L,0.0,1.0,-1.0,League,League Two,Football League,15,4.0,22.0,10.0,3678.0,Tuesday,Nigel Adkins,,,,,,,,,,,,,,,,,,,,,90
+2023/24,2023-10-20,18,Doncaster Rovers,H,1-2,L,1.0,2.0,-1.0,League,League Two,Football League,14,4.0,21.0,10.0,5835.0,Friday,Nigel Adkins,,,,,,,,,,,,,,,,,,,,,90
+2023/24,2023-10-14,17,Crewe Alexandra,A,0-2,L,0.0,2.0,-2.0,League,League Two,Football League,13,4.0,21.0,10.0,5826.0,Saturday,Nigel Adkins,,,,,,,,,,,,,,,,,,,,,90
+2023/24,2023-10-10,16,Leicester City Academy,H,0-1,L,0.0,1.0,-1.0,Cup,Football League Trophy,Associate Members' Cup,2,,,,,Tuesday,Nigel Adkins,,,,,,,,,,,,,,,,,,,,,90
+2023/24,2023-10-07,15,Grimsby Town,H,2-2,D,2.0,2.0,0.0,League,League Two,Football League,12,4.0,22.0,10.0,5968.0,Saturday,Nigel Adkins,,,,,,,,,,,,,,,,,,,,,90
+2023/24,2023-10-03,14,Bradford City,H,2-1,W,2.0,1.0,1.0,League,League Two,Football League,11,4.0,22.0,9.0,5672.0,Tuesday,Nigel Adkins,,,,,,,,,,,,,,,,,,,,,90
 2023/24,2023-09-30,13,AFC Wimbledon,A,1-4,L,1.0,4.0,-3.0,League,League Two,Football League,10,4.0,23.0,6.0,7367.0,Saturday,Nigel Adkins,,,,,,,,,,,,,,,,,,,,,90
 2023/24,2023-09-23,12,Accrington Stanley,H,2-0,W,2.0,0.0,2.0,League,League Two,Football League,9,4.0,23.0,6.0,5980.0,Saturday,Nigel Adkins,,,,,,,,,,,,,,,,,,,,,90
 2023/24,2023-09-16,11,Crawley Town,A,2-3,L,2.0,3.0,-1.0,League,League Two,Football League,8,4.0,23.0,3.0,2961.0,Saturday,Nigel Adkins,,,,,,,,,,,,,,,,,,,,,90
