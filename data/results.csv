@@ -1,4 +1,9 @@
 season,game_date,game_no,opposition,venue,score,outcome,goals_for,goals_against,goal_diff,game_type,competition,generic_comp,ssn_comp_game_no,league_tier,league_pos,pts,attendance,weekday,manager,ko_time,cup_round,cup_leg,cup_stage,cup_replay,cup_section,aet,pen_outcome,pen_score,pen_gf,pen_ga,agg_outcome,agg_score,agg_gf,agg_ga,away_goal_outcome,gg_outcome,decider,cup_outcome,outcome_desc,game_length
+2023/24,2023-12-29,31,Harrogate Town,A,2-0,W,2.0,0.0,2.0,League,League Two,Football League,25,4.0,17.0,30.0,3105.0,Friday,Nigel Adkins,,,,,,,,,,,,,,,,,,,,,90
+2023/24,2023-12-26,30,Salford City,A,5-1,W,5.0,1.0,4.0,League,League Two,Football League,24,4.0,18.0,27.0,,Tuesday,Nigel Adkins,,,,,,,,,,,,,,,,,,,,,90
+2023/24,2023-12-23,29,Swindon Town,H,2-1,W,2.0,1.0,1.0,League,League Two,Football League,23,4.0,18.0,24.0,5894.0,Saturday,Nigel Adkins,,,,,,,,,,,,,,,,,,,,,90
+2023/24,2023-12-16,28,Walsall,A,0-1,L,0.0,1.0,-1.0,League,League Two,Football League,22,4.0,21.0,21.0,5190.0,Saturday,Nigel Adkins,,,,,,,,,,,,,,,,,,,,,90
+2023/24,2023-12-09,27,Newport County,H,2-1,W,2.0,1.0,1.0,League,League Two,Football League,21,4.0,21.0,21.0,,Saturday,Nigel Adkins,,,,,,,,,,,,,,,,,,,,,90
 2023/24,2023-11-28,26,Mansfield Town,A,2-2,D,2.0,2.0,0.0,League,League Two,Football League,20,4.0,22.0,18.0,6421.0,Tuesday,Nigel Adkins,,,,,,,,,,,,,,,,,,,,,90
 2023/24,2023-11-25,25,Gillingham,H,3-1,W,3.0,1.0,2.0,League,League Two,Football League,19,4.0,22.0,17.0,,Saturday,Nigel Adkins,,,,,,,,,,,,,,,,,,,,,90
 2023/24,2023-11-18,24,Sutton United,A,1-1,D,1.0,1.0,0.0,League,League Two,Football League,18,4.0,22.0,14.0,3548.0,Saturday,Nigel Adkins,,,,,,,,,,,,,,,,,,,,,90
@@ -926,7 +931,7 @@ season,game_date,game_no,opposition,venue,score,outcome,goals_for,goals_against,
 2006/07,2006-08-12,3,Doncaster Rovers,A,0-0,D,0.0,0.0,0.0,League,League One,Football League,3,3.0,13.0,4.0,6014.0,Saturday,Ronnie Moore,,,,,,,,,,,,,,,,,,,,,90
 2006/07,2006-08-08,2,Cheltenham Town,A,0-1,L,0.0,1.0,-1.0,League,League One,Football League,2,3.0,13.0,3.0,3875.0,Tuesday,Ronnie Moore,,,,,,,,,,,,,,,,,,,,,90
 2006/07,2006-08-05,1,Oldham Athletic,H,1-0,W,1.0,0.0,1.0,League,League One,Football League,1,3.0,5.0,3.0,8586.0,Saturday,Ronnie Moore,,,,,,,,,,,,,,,,,,,,,90
-2005/06,2006-05-06,51,Doncaster Rovers,H,0-2,L,0.0,2.0,-2.0,League,League One,Football League,46,3.0,18.0,54.0,8343.0,Saturday,Jason McAteer & John McMahon,,,,,,,,,,,,,,,,,,,,,90
+2005/06,2006-05-06,51,Doncaster Rovers,H,0-2,L,0.0,2.0,-2.0,League,League One,Football League,46,3.0,18.0,54.0,8343.0,Saturday,John McMahon & Jason McAteer,,,,,,,,,,,,,,,,,,,,,90
 2005/06,2006-04-29,50,Milton Keynes Dons,A,2-1,W,2.0,1.0,1.0,League,League One,Football League,45,3.0,17.0,54.0,7777.0,Saturday,Brian Little,,,,,,,,,,,,,,,,,,,,,90
 2005/06,2006-04-22,49,Bristol City,H,0-3,L,0.0,3.0,-3.0,League,League One,Football League,44,3.0,19.0,51.0,6288.0,Saturday,Brian Little,,,,,,,,,,,,,,,,,,,,,90
 2005/06,2006-04-17,48,Colchester United,A,0-1,L,0.0,1.0,-1.0,League,League One,Football League,43,3.0,17.0,51.0,4757.0,Monday,Brian Little,,,,,,,,,,,,,,,,,,,,,90
@@ -1196,17 +1201,17 @@ season,game_date,game_no,opposition,venue,score,outcome,goals_for,goals_against,
 2001/02,2001-08-21,3,Shrewsbury Town,H,3-1,W,3.0,1.0,2.0,Cup,League Cup,League Cup,1,,,,5549.0,Tuesday,Dave Watson,,1,,1st round,,,,,,,,,,,,,,,,,90
 2001/02,2001-08-18,2,Colchester United,A,1-2,L,1.0,2.0,-1.0,League,League Division 2,Football League,2,3.0,22.0,0.0,3618.0,Saturday,Dave Watson,,,,,,,,,,,,,,,,,,,,,90
 2001/02,2001-08-11,1,Bury,H,1-2,L,1.0,2.0,-1.0,League,League Division 2,Football League,1,3.0,17.0,0.0,9114.0,Saturday,Dave Watson,,,,,,,,,,,,,,,,,,,,,90
-2000/01,2001-05-06,57,Nottingham Forest,H,2-2,D,2.0,2.0,0.0,League,League Division 1,Football League,46,2.0,24.0,38.0,9891.0,Sunday,Kevin Sheedy & Ray Mathias,,,,,,,,,,,,,,,,,,,,,90
-2000/01,2001-04-28,56,Watford,A,1-1,D,1.0,1.0,0.0,League,League Division 1,Football League,45,2.0,24.0,37.0,16063.0,Saturday,Kevin Sheedy & Ray Mathias,,,,,,,,,,,,,,,,,,,,,90
-2000/01,2001-04-24,55,Burnley,A,1-2,L,1.0,2.0,-1.0,League,League Division 1,Football League,44,2.0,24.0,36.0,13717.0,Tuesday,Kevin Sheedy & Ray Mathias,,,,,,,,,,,,,,,,,,,,,90
-2000/01,2001-04-21,54,Crystal Palace,H,1-1,D,1.0,1.0,0.0,League,League Division 1,Football League,43,2.0,24.0,36.0,8119.0,Saturday,Kevin Sheedy & Ray Mathias,,,,,,,,,,,,,,,,,,,,,90
-2000/01,2001-04-16,53,Queens Park Rangers,A,0-2,L,0.0,2.0,-2.0,League,League Division 1,Football League,42,2.0,24.0,35.0,9696.0,Monday,Kevin Sheedy & Ray Mathias,,,,,,,,,,,,,,,,,,,,,90
-2000/01,2001-04-14,52,Norwich City,H,0-1,L,0.0,1.0,-1.0,League,League Division 1,Football League,41,2.0,24.0,35.0,9303.0,Saturday,Kevin Sheedy & Ray Mathias,,,,,,,,,,,,,,,,,,,,,90
-2000/01,2001-04-10,51,Birmingham City,H,1-0,W,1.0,0.0,1.0,League,League Division 1,Football League,40,2.0,23.0,35.0,8084.0,Tuesday,Kevin Sheedy & Ray Mathias,,,,,,,,,,,,,,,,,,,,,90
-2000/01,2001-04-07,50,Grimsby Town,A,1-3,L,1.0,3.0,-2.0,League,League Division 1,Football League,39,2.0,24.0,32.0,5816.0,Saturday,Kevin Sheedy & Ray Mathias,,,,,,,,,,,,,,,,,,,,,90
-2000/01,2001-03-30,49,Fulham,H,1-4,L,1.0,4.0,-3.0,League,League Division 1,Football League,38,2.0,24.0,32.0,12362.0,Friday,Kevin Sheedy & Ray Mathias,,,,,,,,,,,,,,,,,,,,,90
-2000/01,2001-03-25,48,West Bromwich Albion,A,1-2,L,1.0,2.0,-1.0,League,League Division 1,Football League,37,2.0,24.0,32.0,17151.0,Sunday,Kevin Sheedy & Ray Mathias,,,,,,,,,,,,,,,,,,,,,90
-2000/01,2001-03-20,47,Gillingham,A,1-2,L,1.0,2.0,-1.0,League,League Division 1,Football League,36,2.0,24.0,32.0,7810.0,Tuesday,Kevin Sheedy & Ray Mathias,,,,,,,,,,,,,,,,,,,,,90
+2000/01,2001-05-06,57,Nottingham Forest,H,2-2,D,2.0,2.0,0.0,League,League Division 1,Football League,46,2.0,24.0,38.0,9891.0,Sunday,Ray Mathias & Kevin Sheedy,,,,,,,,,,,,,,,,,,,,,90
+2000/01,2001-04-28,56,Watford,A,1-1,D,1.0,1.0,0.0,League,League Division 1,Football League,45,2.0,24.0,37.0,16063.0,Saturday,Ray Mathias & Kevin Sheedy,,,,,,,,,,,,,,,,,,,,,90
+2000/01,2001-04-24,55,Burnley,A,1-2,L,1.0,2.0,-1.0,League,League Division 1,Football League,44,2.0,24.0,36.0,13717.0,Tuesday,Ray Mathias & Kevin Sheedy,,,,,,,,,,,,,,,,,,,,,90
+2000/01,2001-04-21,54,Crystal Palace,H,1-1,D,1.0,1.0,0.0,League,League Division 1,Football League,43,2.0,24.0,36.0,8119.0,Saturday,Ray Mathias & Kevin Sheedy,,,,,,,,,,,,,,,,,,,,,90
+2000/01,2001-04-16,53,Queens Park Rangers,A,0-2,L,0.0,2.0,-2.0,League,League Division 1,Football League,42,2.0,24.0,35.0,9696.0,Monday,Ray Mathias & Kevin Sheedy,,,,,,,,,,,,,,,,,,,,,90
+2000/01,2001-04-14,52,Norwich City,H,0-1,L,0.0,1.0,-1.0,League,League Division 1,Football League,41,2.0,24.0,35.0,9303.0,Saturday,Ray Mathias & Kevin Sheedy,,,,,,,,,,,,,,,,,,,,,90
+2000/01,2001-04-10,51,Birmingham City,H,1-0,W,1.0,0.0,1.0,League,League Division 1,Football League,40,2.0,23.0,35.0,8084.0,Tuesday,Ray Mathias & Kevin Sheedy,,,,,,,,,,,,,,,,,,,,,90
+2000/01,2001-04-07,50,Grimsby Town,A,1-3,L,1.0,3.0,-2.0,League,League Division 1,Football League,39,2.0,24.0,32.0,5816.0,Saturday,Ray Mathias & Kevin Sheedy,,,,,,,,,,,,,,,,,,,,,90
+2000/01,2001-03-30,49,Fulham,H,1-4,L,1.0,4.0,-3.0,League,League Division 1,Football League,38,2.0,24.0,32.0,12362.0,Friday,Ray Mathias & Kevin Sheedy,,,,,,,,,,,,,,,,,,,,,90
+2000/01,2001-03-25,48,West Bromwich Albion,A,1-2,L,1.0,2.0,-1.0,League,League Division 1,Football League,37,2.0,24.0,32.0,17151.0,Sunday,Ray Mathias & Kevin Sheedy,,,,,,,,,,,,,,,,,,,,,90
+2000/01,2001-03-20,47,Gillingham,A,1-2,L,1.0,2.0,-1.0,League,League Division 1,Football League,36,2.0,24.0,32.0,7810.0,Tuesday,Ray Mathias & Kevin Sheedy,,,,,,,,,,,,,,,,,,,,,90
 2000/01,2001-03-17,46,Barnsley,H,2-3,L,2.0,3.0,-1.0,League,League Division 1,Football League,35,2.0,24.0,32.0,8484.0,Saturday,John Aldridge,,,,,,,,,,,,,,,,,,,,,90
 2000/01,2001-03-14,45,Portsmouth,H,1-1,D,1.0,1.0,0.0,League,League Division 1,Football League,34,2.0,24.0,32.0,9872.0,Wednesday,John Aldridge,,,,,,,,,,,,,,,,,,,,,90
 2000/01,2001-03-11,44,Liverpool,H,2-4,L,2.0,4.0,-2.0,Cup,FA Cup,FA Cup,5,,,,16344.0,Sunday,John Aldridge,14:00:00,QF,,Quarter-final,,,,,,,,,,,,,,,,,90

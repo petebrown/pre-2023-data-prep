@@ -24,14 +24,15 @@ Frank Worthington,1985-07-08,1987-02-12,Manager
 Ronnie Moore,1987-02-13,1987-04-12,Manager
 John King,1987-04-13,1996-04-12,Manager
 John Aldridge,1996-04-12,2001-03-17,Manager
-Kevin Sheedy,2001-03-18,2001-05-07,Caretaker
 Ray Mathias,2001-03-18,2001-05-07,Caretaker
+Kevin Sheedy,2001-03-18,2001-05-07,Caretaker
 Dave Watson,2001-05-20,2002-08-01,Manager
-Ray Mathias,2002-08-01,2003-09-29,Manager
+Ray Mathias,2002-08-01,2002-09-06,Caretaker
+Ray Mathias,2002-09-06,2003-09-29,Manager
 John McMahon,2003-09-29,2003-10-12,Caretaker
 Brian Little,2003-10-12,2006-05-05,Manager
-Jason McAteer,2006-05-05,2006-05-07,Caretaker
 John McMahon,2006-05-05,2006-05-07,Caretaker
+Jason McAteer,2006-05-05,2006-05-07,Caretaker
 Ronnie Moore,2006-06-09,2009-06-05,Manager
 John Barnes,2009-06-14,2009-10-09,Manager
 Les Parry,2009-10-09,2012-03-04,Manager
@@ -50,4 +51,5 @@ Ian Dawes,2021-05-17,2021-05-24,Manager
 Micky Mellon,2021-06-01,2023-03-19,Manager
 Ian Dawes,2023-03-20,2023-05-04,Caretaker
 Ian Dawes,2023-05-04,2023-09-10,Manager
-Nigel Adkins,2023-09-10,2024-04-27,Manager
+Nigel Adkins,2023-09-10,2023-11-02,Caretaker
+Nigel Adkins,2023-11-02,2024-04-27,Manager
