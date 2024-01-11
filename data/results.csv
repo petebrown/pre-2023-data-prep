@@ -1,4 +1,6 @@
 season,game_date,game_no,opposition,venue,score,outcome,goals_for,goals_against,goal_diff,game_type,competition,generic_comp,ssn_comp_game_no,league_tier,league_pos,pts,attendance,weekday,manager,ko_time,cup_round,cup_leg,cup_stage,cup_replay,cup_section,aet,pen_outcome,pen_score,pen_gf,pen_ga,agg_outcome,agg_score,agg_gf,agg_ga,away_goal_outcome,gg_outcome,decider,cup_outcome,outcome_desc,game_length
+2023/24,2024-01-06,33,Barrow,A,0-1,L,0.0,1.0,-1.0,League,League Two,Football League,27,4.0,16.0,33.0,4023.0,Saturday,Nigel Adkins,,,,,,,,,,,,,,,,,,,,,90
+2023/24,2024-01-01,32,Notts County,H,4-2,W,4.0,2.0,2.0,League,League Two,Football League,26,4.0,15.0,33.0,2828.0,Monday,Nigel Adkins,,,,,,,,,,,,,,,,,,,,,90
 2023/24,2023-12-29,31,Harrogate Town,A,2-0,W,2.0,0.0,2.0,League,League Two,Football League,25,4.0,17.0,30.0,3105.0,Friday,Nigel Adkins,,,,,,,,,,,,,,,,,,,,,90
 2023/24,2023-12-26,30,Salford City,A,5-1,W,5.0,1.0,4.0,League,League Two,Football League,24,4.0,18.0,27.0,,Tuesday,Nigel Adkins,,,,,,,,,,,,,,,,,,,,,90
 2023/24,2023-12-23,29,Swindon Town,H,2-1,W,2.0,1.0,1.0,League,League Two,Football League,23,4.0,18.0,24.0,5894.0,Saturday,Nigel Adkins,,,,,,,,,,,,,,,,,,,,,90
