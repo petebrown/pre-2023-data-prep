@@ -5697,8 +5697,8 @@ game_date,player_name,goal_min,penalty,own_goal
 2003-04-19,Simon Haworth,65.0,0.0,0
 2003-04-21,Shane Nicholson,59.0,1.0,0
 2003-04-21,Simon Haworth,60.0,0.0,0
-2003-04-21,Iain Anderson,90.0,0.0,0
 2003-04-21,Alex Hay,90.0,0.0,0
+2003-04-21,Iain Anderson,90.0,0.0,0
 2003-04-29,Gary Jones,15.0,0.0,0
 2003-04-29,Simon Haworth,81.0,0.0,0
 2003-04-29,Jason Price,90.0,0.0,0
@@ -6496,8 +6496,8 @@ game_date,player_name,goal_min,penalty,own_goal
 2015-12-26,Michael Ihiekwe,77.0,0.0,0
 2015-12-28,James Norwood,28.0,0.0,0
 2016-01-09,Adam Mekki,18.0,1.0,0
-2016-01-09,Jeff Hughes,90.0,0.0,0
 2016-01-09,Jake Kirby,90.0,0.0,0
+2016-01-09,Jeff Hughes,90.0,0.0,0
 2016-01-09,Lois Maynard,90.0,0.0,0
 2016-01-23,Lee Vaughan,54.0,0.0,0
 2016-01-30,Gary Taylor-Fletcher,37.0,0.0,0
@@ -7113,3 +7113,4 @@ game_date,player_name,goal_min,penalty,own_goal
 2024-04-20,Harvey Saunders,35.0,0.0,0
 2024-04-20,Rob Apter,45.0,0.0,0
 2024-04-20,Connor Jennings,71.0,0.0,0
+2024-04-27,Luke Norris,2.0,0.0,0
