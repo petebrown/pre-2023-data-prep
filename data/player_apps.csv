@@ -31129,6 +31129,7 @@ game_date,player_name,shirt_no,role
 1985-11-05,David Burgess,3,starter
 1985-11-05,Mark Hughes,4,starter
 1985-11-05,Dave Miller,5,starter
+1985-11-05,Steve Edwards,6,starter
 1985-11-05,Johnny Morrissey,7,starter
 1985-11-05,Billy Rodaway,8,starter
 1985-11-05,Frank Worthington,9,starter
@@ -31140,7 +31141,6 @@ game_date,player_name,shirt_no,role
 1985-11-09,David Burgess,3,starter
 1985-11-09,Mark Hughes,4,starter
 1985-11-09,Billy Ashcroft,5,starter
-1985-11-09,Steve Edwards,6,starter
 1985-11-09,Ray Train,6,starter
 1985-11-09,Johnny Morrissey,7,starter
 1985-11-09,Billy Rodaway,8,starter
@@ -31174,6 +31174,7 @@ game_date,player_name,shirt_no,role
 1985-11-23,David Burgess,3,starter
 1985-11-23,Dave Miller,4,starter
 1985-11-23,Billy Ashcroft,5,starter
+1985-11-23,Steve Edwards,6,starter
 1985-11-23,Johnny Morrissey,7,starter
 1985-11-23,Billy Rodaway,8,starter
 1985-11-23,Frank Worthington,9,starter
@@ -31206,7 +31207,6 @@ game_date,player_name,shirt_no,role
 1985-12-10,Barry Siddall,1,starter
 1985-12-10,Steve Mungall,2,starter
 1985-12-10,David Burgess,3,starter
-1985-12-10,Steve Edwards,4,starter
 1985-12-10,Dave Miller,4,starter
 1985-12-10,Mark Hughes,5,starter
 1985-12-10,Gary Williams,6,starter
@@ -31218,6 +31218,7 @@ game_date,player_name,shirt_no,role
 1985-12-14,Barry Siddall,1,starter
 1985-12-14,Steve Mungall,2,starter
 1985-12-14,David Burgess,3,starter
+1985-12-14,Steve Edwards,4,starter
 1985-12-14,Mark Hughes,5,starter
 1985-12-14,Gary Williams,6,starter
 1985-12-14,Johnny Morrissey,7,starter
@@ -31234,7 +31235,6 @@ game_date,player_name,shirt_no,role
 1985-12-20,Gary Williams,6,starter
 1985-12-20,Johnny Morrissey,7,starter
 1985-12-20,Billy Rodaway,8,starter
-1985-12-20,Steve Edwards,9,starter
 1985-12-20,Frank Worthington,9,starter
 1985-12-20,Liam Robinson,10,starter
 1985-12-20,Doug Anderson,11,starter
@@ -31253,12 +31253,12 @@ game_date,player_name,shirt_no,role
 1986-01-04,Nigel Adkins,1,starter
 1986-01-04,Steve Mungall,2,starter
 1986-01-04,David Burgess,3,starter
-1986-01-04,Steve Edwards,3,starter
 1986-01-04,Ray Train,4,starter
 1986-01-04,Billy Ashcroft,5,starter
 1986-01-04,Gary Williams,6,starter
 1986-01-04,Johnny Morrissey,7,starter
 1986-01-04,Billy Rodaway,8,starter
+1986-01-04,Steve Edwards,9,starter
 1986-01-04,Liam Robinson,10,starter
 1986-01-04,Doug Anderson,11,starter
 1986-01-11,Nigel Adkins,1,starter
@@ -31275,9 +31275,9 @@ game_date,player_name,shirt_no,role
 1986-01-11,Mike Hollifield,12,sub
 1986-01-17,Nigel Adkins,1,starter
 1986-01-17,Steve Mungall,2,starter
+1986-01-17,Steve Edwards,3,starter
 1986-01-17,Mark Hughes,4,starter
 1986-01-17,Billy Ashcroft,5,starter
-1986-01-17,Steve Edwards,6,starter
 1986-01-17,Gary Williams,6,starter
 1986-01-17,Johnny Morrissey,7,starter
 1986-01-17,Billy Rodaway,8,starter
@@ -31360,6 +31360,7 @@ game_date,player_name,shirt_no,role
 1986-02-28,David Burgess,3,starter
 1986-02-28,Ray Train,4,starter
 1986-02-28,Billy Ashcroft,5,starter
+1986-02-28,Steve Edwards,6,starter
 1986-02-28,Mark Hughes,7,starter
 1986-02-28,Gary Williams,8,starter
 1986-02-28,Frank Worthington,9,starter
