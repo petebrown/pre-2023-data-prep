@@ -3600,6 +3600,12 @@ game_date,shirt_no,player_name,on_for,off_for
 2001-09-21,10,Seyni N'Diaye,11.0,
 2001-09-21,14,Paul Rideout,15.0,
 2001-09-21,7,Micky Mellon,31.0,
+2001-09-25,7,Micky Mellon,31.0,
+2001-09-25,31,Nick Henry,,7.0
+2001-09-25,15,Wayne Allison,9.0,
+2001-09-25,9,Andy Parkinson,,15.0
+2001-09-25,23,Iain Hume,10.0,
+2001-09-25,10,Seyni N'Diaye,,23.0
 2001-09-29,15,Wayne Allison,,10.0
 2001-09-29,8,Jason Koumas,,9.0
 2001-09-29,10,Seyni N'Diaye,15.0,
@@ -3802,10 +3808,10 @@ game_date,shirt_no,player_name,on_for,off_for
 2002-09-21,7,Jason Price,,12.0
 2002-09-21,15,Iain Hume,12.0,
 2002-09-21,32,Eric Nixon,13.0,
-2002-10-02,12,Andy Parkinson,16.0,
-2002-10-02,17,James Olsen,11.0,
-2002-10-02,16,Alex Hay,,12.0
-2002-10-02,11,Stuart Barlow,,17.0
+2002-10-02,12,Andy Parkinson,11.0,
+2002-10-02,17,James Olsen,16.0,
+2002-10-02,16,Alex Hay,,17.0
+2002-10-02,11,Stuart Barlow,,12.0
 2002-10-02,3,Gareth Roberts,,14.0
 2002-10-02,14,Richard Hinds,3.0,
 2002-10-05,12,Andy Parkinson,,17.0
